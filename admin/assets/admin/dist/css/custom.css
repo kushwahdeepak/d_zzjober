@@ -1,0 +1,55 @@
+.text__align__right {
+	text-align: right;
+}
+
+.floatalign_text_right {
+	text-align:right; 
+	float: right;
+}
+
+.floatalign_text_left {
+	text-align:left;
+	float: left;
+}
+
+.user__img {
+	width: 70px;
+	height: 70px;
+	border: 2px solid #15659e;
+}
+
+.asterisk:after {
+    content:"*" ;
+    color:red;    
+}
+
+.customerwalkrequest {
+	margin-top: 25px;
+}
+
+.walk_request_button {
+	text-align: center; 
+}
+
+.float__right {
+	float: right;
+}
+
+.left_right_margin {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.blue__color__icon {
+	color: #3C8DBC;
+  text-shadow: 1px 1px 1px #ccc;
+  font-size: 1.5em;
+}
+
+.table > tbody > tr > td {
+	vertical-align: middle;
+}
+
+.customer_profile_img {
+	height: 100px;
+}

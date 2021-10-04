@@ -1,0 +1,2 @@
+[24-Nov-2018 03:24:58 America/Chicago] PHP Fatal error:  Call to undefined function random_bytes() in /home/auton623/snoopyjob.com/application/controllers/Authentication.php on line 167
+[29-Aug-2019 06:23:19 America/Sao_Paulo] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/auton623/snoopyjob.com/application/views/home.php on line 369
